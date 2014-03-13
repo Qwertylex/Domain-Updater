@@ -1,4 +1,4 @@
 Domain-Updater
 ==============
 
-Updater for dynamic IPs on Hurricane Electric's DNS service.
+Updater daemon for dynamic IPs on Hurricane Electric's DNS service.
